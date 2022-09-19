@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/python3
 """
 Defines a class Rectangle
@@ -13,6 +11,10 @@ class Rectangle:
         """Initializes the rectangle"""
         self.width = width
         self.height = height
+
+    def __del__(self):
+        """prints a string when an instance has been deleted"""
+        print("Bye rectangle...")
 
     @property
     def width(self):
