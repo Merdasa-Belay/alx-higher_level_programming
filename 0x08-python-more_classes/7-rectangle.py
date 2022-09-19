@@ -112,7 +112,7 @@ class Rectangle:
             string represenation of the object
         """
 
-        return (f"Rectangle({self.width:d}, {self.height:d})".format(self.width, self.height))
+        return "Rectangle({:d}, {:d})".format(self.width, self.height)
 
     def __del__(self):
         """ Method that prints a message when the instance is deleted
