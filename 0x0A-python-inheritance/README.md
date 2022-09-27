@@ -29,8 +29,9 @@ Files
 | 8-rectangle.py |	Class Rectangle that inhertis from BaseGeometry implemented |
 
 | 9-rectangle.py | Rectangle that inherits from BaseGeometry (7-base_geometry.py). (task based on 8-rectangle.py) |
+
 | 10-square.py | Square that inherits from Rectangle (9-rectangle.py): |
-| 11-square.py | Square that inherits from Rectangle (9-rectangle.py). (task based on 10-square.py). |
+
 
 | 11-square.py |	Class Square that inherits from Rectangle, with str() method |
 
