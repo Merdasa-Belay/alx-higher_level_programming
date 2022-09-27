@@ -1,6 +1,6 @@
 # 0x0A. Python - Inheritance
 Inheritance
-Project done during Full Stack Software Engineering studies at Holberton School. It aims to learn about inheritance, superclass, baseclass and subclass in Python.
+Project done during Full Stack Software Engineering studies at ALXSE School. It aims to learn about inheritance, superclass, baseclass and subclass in Python.
 
 ##  Technologies
 Python Scripts are written with Python 3.4.3
