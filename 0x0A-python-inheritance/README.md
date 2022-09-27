@@ -8,9 +8,11 @@ C files are compiled using gcc 4.8.4
 Tested on Ubuntu 20.04 LTS
 Files
 
-| ------------- | ------------- |
+
 
 | Filename |	Description |
+
+| ------------- | ------------- |
 
 | 0-lookup.py	| Function that returns the list of available attributes and methods of an object | 
 
@@ -24,8 +26,11 @@ Files
 
 | 7-base_geometry.py	| Class BaseGeometry with public instance method that verifies if the input arg is an integer |
 
-| 8-rectangle.py |	Class Rectangle that inhertis from BaseGeometry |
-| mplemented |
+| 8-rectangle.py |	Class Rectangle that inhertis from BaseGeometry implemented |
+
+| 9-rectangle.py | Rectangle that inherits from BaseGeometry (7-base_geometry.py). (task based on 8-rectangle.py) |
+| 10-square.py | Square that inherits from Rectangle (9-rectangle.py): |
+| 11-square.py | Square that inherits from Rectangle (9-rectangle.py). (task based on 10-square.py). |
 
 | 11-square.py |	Class Square that inherits from Rectangle, with str() method |
 
