@@ -1,8 +1,8 @@
-# 0x0A. Python - Inheritance
+ 0x0A. Python - Inheritance
 Inheritance
 Project done during Full Stack Software Engineering studies at ALXSE School. It aims to learn about inheritance, superclass, baseclass and subclass in Python.
 
-##  Technologies
+ Technologies
 Python Scripts are written with Python 3.4.3
 C files are compiled using gcc 4.8.4
 Tested on Ubuntu 20.04 LTS
@@ -10,7 +10,7 @@ Files
 
 
 
-| # Filename |	# Description |
+|  Filename |	 Description |
 
 | :-------------------- | :-------------------- |
 
