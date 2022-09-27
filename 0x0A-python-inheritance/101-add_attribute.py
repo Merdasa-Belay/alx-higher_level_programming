@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-10-square module
+101-add_attribute module
 """
 Rectangle = __import__('9-rectangle').Rectangle
 
