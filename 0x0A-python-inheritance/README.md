@@ -7,7 +7,11 @@ Python Scripts are written with Python 3.4.3
 C files are compiled using gcc 4.8.4
 Tested on Ubuntu 20.04 LTS
 Files
-### Filename	Description
+
+| ---------| -------------|
+
+| Filename |	Description |
+
 |0-lookup.py	| Function that returns the list of available attributes and methods of an object | 
 |1-my_list.py	| Class MyList that inhertis from list |
 |2-is_same_class.py	| Function that returns True if the object is exactly an instance of the specified class; otherwise False |
